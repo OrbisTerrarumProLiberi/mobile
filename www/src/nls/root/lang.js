@@ -1,6 +1,6 @@
 define({
     appName: "Chamilo LMS Mobile",
-    myChamilo: "My Chamilo LMS",
+    myChamilo: "Trimex LMS",
     myCourses: 'My courses',
     domain: "Domain",
     myAccount: "My account",
