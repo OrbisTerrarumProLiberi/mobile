@@ -1,8 +1,8 @@
 {
   "name": "org.chamilo.messaging",
-  "displayName": "Chamilo Messaging",
+  "displayName": "Trimex LMS",
   "version": "2.2.5",
-  "description": "The Messaging app for Chamilo LMS is a multi-mobile-OS application that allows you to get your messages from Chamilo LMS's social network.",
+  "description": "The Official app for Trimex LMS is an android-based application that allows you to see your progrress from Trimex LMS's social network.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
