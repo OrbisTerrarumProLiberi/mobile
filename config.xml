@@ -21,6 +21,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
         <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+		<preference name="android-targetSdkVersion" value="28" />
         <resource-file src="res/drawable/notification_icon.png"
                        target="app/src/main/res/drawable/notification_icon.png"/>
         <resource-file src="res/values/colors.xml" target="app/src/main/res/values/colors.xml"/>
