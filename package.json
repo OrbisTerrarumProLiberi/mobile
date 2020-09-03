@@ -1,13 +1,13 @@
 {
   "name": "org.chamilo.messaging",
-  "displayName": "Trimex LMS",
+  "displayName": "Trimex LMS for Students",
   "version": "2.2.6",
-  "description": "The Official app for Trimex LMS is an android-based application that allows you to see your progrress from Trimex LMS's social network.",
+  "description": "The Official app for Trimex LMS is an android-based application that allows you to see your progress from Trimex LMS's social network.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "BeezNest <info@beeznest.com>",
+  "author": "BeezNest <ccs@trimexcolleges.edu.ph>",
   "license": "AGPL-3.0",
   "dependencies": {
     "cordova-android": "^8.1.0",
