@@ -1,7 +1,7 @@
 {
   "name": "org.chamilo.messaging",
   "displayName": "Trimex LMS",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "The Official app for Trimex LMS is an android-based application that allows you to see your progrress from Trimex LMS's social network.",
   "main": "index.js",
   "scripts": {
