@@ -2,11 +2,11 @@
 <widget id="org.chamilo.messaging" version="2.2.5" xmlns="http://www.w3.org/ns/widgets"
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Trimex LMS</name>
+    <name>Trimex LMS for Students</name>
     <description>
-        The Official app for Trimex LMS is an android-based application that allows you to see your progrress from Trimex LMS's social network.
+        The Official app for Trimex LMS is an android-based application that allows you to see your progress from Trimex LMS's social network.
     </description>
-    <author email="info@beeznest.com" href="https://beeznest.com">
+    <author email="ccs@trimexcolleges.edu.ph" href="https://trimexportal.com">
         BeezNest
     </author>
     <icon src="res/icon.png" />
